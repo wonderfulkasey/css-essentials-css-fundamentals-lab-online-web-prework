@@ -8,6 +8,15 @@ nav {
   background: grey;
 }
 
+p {
+  width:800px;
+  text-align:center;
+}
+
+details {
+  display:block;
+}
+
 img {
   display: block;
   margin-left: auto;
